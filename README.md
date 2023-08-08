@@ -28,3 +28,7 @@ $x=3^2$
 [Google](https://google.com)
 
 ![havana rabbit](https://www.mypetdesire.com/myadmin/assets/img/post/blog_824_Havana_Rabbit.png)
+
+
+<hr> 
+add permalink and repo link
