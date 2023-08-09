@@ -32,3 +32,5 @@ $x=3^2$
 
 <hr> 
 add permalink and repo link
+
+This is now an edit
